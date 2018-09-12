@@ -5,3 +5,5 @@ Dieser Kurs soll im Rahmen des Praktikums Messtechnik eine Einführung in die Me
 Das Durcharbeiten dieses Jupyter Notebooks ist notwendig, um die Programmieraufgaben im Praktikumstermin zu bewerkstelligen. Bitte bereiten Sie sich gut vor.
 
 Ein Jupyter Notebook zu den Grundlagen des wissenschaftlichen Rechnens mit Pyton finden Sie im Repository PrakMesstBV.
+
+>Hinweis: Um das Jupyter Notebook anzuschauen, klicken Sie bitte im File Explorer oben auf die Datei mit der Endung ".ipynb". Ein interaktives Ausführen des Notebooks ist hier nicht möglich.
